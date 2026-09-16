@@ -238,4 +238,4 @@ This repository serves as the official landing page for Open Ports Scanner. The 
 **Get the most recent version of Open Ports Scanner today!**
 
 ---
-**Last updated:** 2026-09-16 02:01:20 UTC
+**Last updated:** 2026-09-16 07:58:31 UTC
